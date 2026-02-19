@@ -82,3 +82,6 @@ exercise_clean.csv
 *.gif
 *.svg
 *.pdf
+
+# Test files 
+test.ipynb
